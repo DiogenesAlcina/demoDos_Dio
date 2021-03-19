@@ -1,0 +1,24 @@
+______________________________________________
+Proyecto sacado de https://start.spring.io/
+	Proyecto Maven
+	SpringBoot 2.3.10 (SNAPSHOT)
+	Packaging Jar
+	Java 11
+	Con las dependencias:
+		Spring Boot DevTools
+		SpringWeb
+		H2
+_______________________________________________
+
+Para el reto 01 de Git:
+	Ok-> El método main() ha de tener un “Hola Mundo” mediante un System.out.println().
+	Ok -> Crear un repositorio local sobre el directorio del proyecto en el workspace.
+	Ok -> Añadir todo el proyecto mediante la consola Bash de GIT a la staging area.
+	Ok -> Añadir la primera versión del proyecto mediante commit al repositorio local.
+	Ok -> Modificar el método main() para añadir un nuevo saludo con el nombre del desarrollador.
+	Ok -> Volver a añadir a la staging area y commitear los cambios sufridos por el proyecto.
+	Ok -> Crear una cuenta en GitHub y un repositorio en el mismo con mismo nombre del proyecto.
+	Promocionar todo el proyecto a GitHub.
+	Entregar la URL del proyecto al instructor.
+	
+_______________________________________________
